@@ -1,3 +1,13 @@
+# ARYC DOCS
+
+**A**dventu**R**eady **Y**outh **C**lub **Doc**umentation**s**
+
+## Contents
+
+- **Updates** - website/app's development changes to production 
+
+___
+
 # Hextra Starter Template
 
 [![Deploy Hugo site to Pages](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml/badge.svg)](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml)
