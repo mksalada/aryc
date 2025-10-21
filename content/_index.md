@@ -3,7 +3,7 @@ title: ARYC Docs
 toc: false
 ---
 
-This is the landing page.
+Welcome to **A**dventu**R**eady **Y**outh **C**lub's **Doc**umentation**s**
 
 ## Explore
 
@@ -12,6 +12,6 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+## Contact
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information, visit our [Facebook page](https://facebook.com/AdventuReadyYouthClub).
