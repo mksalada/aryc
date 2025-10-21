@@ -18,14 +18,14 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: About
-      pageRef: /about
+    #- name: Docs
+    #  pageRef: /docs
+    #  weight: 1
+    - name: Updates
+      pageRef: /updates
       weight: 2
-    - name: Contact ↗
-      url: "https://adventuready.net/contact"
+    - name: About ↗
+      url: "https://adventuready.net/about"
       weight: 3
     - name: Search
       weight: 4
