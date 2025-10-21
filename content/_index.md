@@ -15,4 +15,4 @@ Welcome to **A**dventu**R**eady **Y**outh **C**lub's **Doc**umentation**s**
 
 ## Contact
 
-For more information, visit our [Facebook page](https://facebook.com/AdventuReadyYouthClub).
+For more information, visit our [website](https://adventuready.net/contact) or [Facebook page](https://facebook.com/AdventuReadyYouthClub).
