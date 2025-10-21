@@ -9,7 +9,8 @@ Welcome to **A**dventu**R**eady **Y**outh **C**lub's **Doc**umentation**s**
 
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  <!--{{< card link="about" title="About" icon="user" >}}-->
+  {{< card link="updates" title="Updates" icon="bell" >}}
 {{< /cards >}}
 
 ## Contact
