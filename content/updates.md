@@ -3,7 +3,10 @@ title: Updates
 type: updates
 ---
 
-This is the updates page.
+## 23 Oct 2025
+
+WordPress
+- Added Site Icon
 
 ## 22 Oct 2025
 
