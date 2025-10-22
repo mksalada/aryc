@@ -3,7 +3,9 @@ title: ARYC Docs
 toc: false
 ---
 
-Welcome to **A**dventu**R**eady **Y**outh **C**lub's **Doc**umentation**s**
+<br>
+
+Welcome to <u>A</u>dventu<u>R</u>eady <u>Y</u>outh <u>C</u>lub's <u>Doc</u>umentation<u>s</u>
 
 ## Explore
 
