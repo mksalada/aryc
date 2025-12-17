@@ -45,8 +45,14 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
-
+    displayLogo: true
+    logo:
+      path: img/aryc-logo-nobg-800x450.png
+      # dark: img/logo-dark.svg
+      link: /
+      width: 40
+      height: 20
+  
   footer:
     displayCopyright: false
     displayPoweredBy: true
