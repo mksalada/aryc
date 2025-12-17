@@ -4,7 +4,14 @@
 
 ## Contents
 
+- **About** - link to ARYC About page
 - **Updates** - website/app's development changes to production 
+- **Collections** - compipled stuff for ARYC 
+
+## Resources
+
+- [Hextra Documentation](https://imfing.github.io/hextra/docs)
+- [Heroicons](https://v1.heroicons.com/)
 
 ___
 
