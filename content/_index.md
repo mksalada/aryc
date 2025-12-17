@@ -13,9 +13,9 @@ You can follow along and see how we're making the website better for you!
 
 {{< cards >}}
   <!--{{< card link="docs" title="Docs" icon="book-open" >}}-->
-  <!--{{< card link="about" title="About" icon="user" >}}-->
+  {{< card link="https://adventuready.net/about" title="About" icon="user" >}}
   {{< card link="updates" title="Updates" icon="bell" >}}
-  {{< card link="updates" title="Collections" icon="folder-open" >}}
+  {{< card link="collections" title="Collections" icon="collection" >}}
 {{< /cards >}}
 
 ## Contact
